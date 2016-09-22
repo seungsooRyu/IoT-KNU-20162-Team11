@@ -1,7 +1,0 @@
-﻿  main.c
-c:\git_example\iothw1\hw1\main.c(29): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-  c:\git_example\iothw1\hw1\main.c(29): note: 이 인수는 버퍼 크기로 사용됩니다.
-c:\git_example\iothw1\hw1\main.c(37): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-  c:\git_example\iothw1\hw1\main.c(37): note: 이 인수는 버퍼 크기로 사용됩니다.
-  HW1.vcxproj -> C:\Git_Example\IoTHW1\x64\Debug\HW1.exe
-  HW1.vcxproj -> C:\Git_Example\IoTHW1\x64\Debug\HW1.pdb (Partial PDB)
